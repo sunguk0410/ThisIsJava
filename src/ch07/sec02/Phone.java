@@ -19,4 +19,6 @@ public class Phone {
     public void hangUp() {
         System.out.println("전화를 끊습니다.");
     }
+
+    //단축키 연습: 깃 커밋 = ctrl + k
 }
